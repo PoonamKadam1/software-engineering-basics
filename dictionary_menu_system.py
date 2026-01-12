@@ -1,6 +1,9 @@
 # Project: Dictionary Menu – Final Question
 # Comments: Practice solution
 # Solved without help: Yes
+### Dictionary Mini Project: This mini project implements a simple menu and order system using Python dictionaries.
+# It supports adding, updating, and removing menu items, displaying the menu, andcalculating the total cost of an order based on user input.
+
 
 # -------------------------------------------------
 # Menu dictionary
