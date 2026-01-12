@@ -1,0 +1,5 @@
+print("Hello, GitHub!")
+print("This is my first Python program as part of my learning journey.")
+print("I'm excited to share my code with the world!")
+print("Stay tuned for more updates and projects!")
+print("Happy coding!")
